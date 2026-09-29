@@ -1,4 +1,4 @@
----------REQUISITOS FUNCIONAIS (RF)----------
+##---------REQUISITOS FUNCIONAIS (RF)----------
 
 RF01 O usuário deve poder se cadastrar no sistema, criando login e senha 	   
 
@@ -21,7 +21,7 @@ RF09 Após serem cadastrados, sistema deve permitir que clínicas e médicos cri
 RF10 O sistema deve permitir que clínicas e médicos insiram informações de vagas de atendimento, com datas e horários, assim como informações de consultas e exames já realizados (nome do paciente, horário, tipo de exame realizado...).	
 
 
-----------REQUISITOS NÃO FUNCIONAIS (RNF)-------------
+##----------REQUISITOS NÃO FUNCIONAIS (RNF)-------------
 
 RNF01 Compatibilidade: O sistema deve ser responsivo e funcionar perfeitamente nos principais navegadores (Chrome, Safari, Edge, Firefox) e sistemas operacionais móveis (iOS e Android).
 
