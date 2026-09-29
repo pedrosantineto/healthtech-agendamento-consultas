@@ -1,4 +1,4 @@
-##---------REQUISITOS FUNCIONAIS (RF)----------
+##---------_REQUISITOS FUNCIONAIS (RF)_----------
 
 RF01 O usuário deve poder se cadastrar no sistema, criando login e senha 	   
 
